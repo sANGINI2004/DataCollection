@@ -14,12 +14,6 @@ This repository contains the implementation of an app that focuses on optimizing
 https://github.com/Haardik-Ravat/Complex-Behaviour-Recognition/assets/78262624/c35cf01c-26e3-4e79-9b30-304c88a705f6
 
 
-  
-  ## Data Flow
-![Flowchart (1)](https://github.com/Haardik-Ravat/Complex-Behaviour-Recognition/assets/78262624/f3d00879-8370-45d2-ba70-f2e2ce40b937)
-
-
-
 ## Problem Statement
 
 Data collection for HAR often suffers from skewed data distributions, the presence of outliers, and a lack of time synchronization across multiple sources. These issues can lead to false activity recognition and hinder context prediction accuracy. The project aims to overcome these challenges and enhance the overall performance of HAR models.
